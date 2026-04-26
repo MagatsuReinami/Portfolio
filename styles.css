@@ -212,7 +212,7 @@ img {
 }
 
 .code {
-  color: var(--main-gray);
+  color: var(--main-white);
   transition: color 0.3s ease-out;
 }
 
