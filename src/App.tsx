@@ -123,8 +123,8 @@ const Projects = () => {
     {
       title: "Vortex Platform",
       category: "SAAS / PRODUCT",
-      image: "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?auto=format&fit=crop&q=80&w=1200",
-      link: "#"
+      image: "./src/sprite/mktweb.png",
+      link: "https://marketplace-tau-wheat.vercel.app/"
     },
     {
       title: "Lumina Studio",
